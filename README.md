@@ -2,6 +2,8 @@
 
 Undergraduate student learning to use Python to aid in learning.
 
+Currently working on using OpenFOAM for CFD projects.
+
 <!--
 **turn-null/turn-null** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

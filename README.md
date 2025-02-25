@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Undergraduate student learning to use Python to aid in learning.
+
 <!--
 **turn-null/turn-null** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
